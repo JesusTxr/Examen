@@ -1,0 +1,4 @@
+C:\Users\chuch\OneDrive\Documentos\Programacion\Examen\obj\Debug\net9.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Documentos\Programacion\Examen\obj\Debug\net9.0\Examen.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Programacion\Examen\obj\Debug\net9.0\Examen.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Documentos\Programacion\Examen\obj\Debug\net9.0\Examen.csproj.CoreCompileInputs.cache
